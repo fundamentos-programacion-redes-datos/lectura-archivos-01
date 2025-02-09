@@ -1,0 +1,6 @@
+Hoy tuvimos una reunión con el equipo de desarrollo.
+Discutimos sobre los avances en el nuevo sistema de gestión de clientes.
+María mencionó que hay algunos problemas en la integración de la base de datos.
+Carlos sugirió hacer pruebas antes de continuar con la implementación.
+El próximo encuentro será el lunes.
+

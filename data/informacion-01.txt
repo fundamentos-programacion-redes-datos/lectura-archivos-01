@@ -1,0 +1,5 @@
+ID,Nombre,Apellido,Edad,Departamento,Salario
+1,Juan,Pérez,30,Contabilidad,2500
+2,María,López,27,Recursos Humanos,2800
+3,Carlos,García,35,IT,3200
+4,Ana,Rodríguez,29,Marketing,2700
